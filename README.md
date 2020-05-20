@@ -1,3 +1,5 @@
+# Deprecated, use https://recovery.ambisafe.com instead.
+
 # Ambisafe encrypted container decryption and private key recovery
 
 This process was developed to make your wallet as safe as possible. It allows recovering private key from a backup of the encrypted container from wallets and ICOs powered by Ambisafe. You have to remember your account password that was used at the service you've got the backup from.
